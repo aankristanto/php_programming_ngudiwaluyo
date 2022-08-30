@@ -1,4 +1,4 @@
-// Fungsi Pada PHP
+<?php
+// Function pada PHP
 
-
-
+?>
