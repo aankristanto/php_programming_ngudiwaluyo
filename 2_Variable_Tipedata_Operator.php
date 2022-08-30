@@ -20,8 +20,4 @@ $mobilku = array("Innova", "Avanza", "Pajero", "Fortuner");
 
 
 
-
-
-
-
 ?>
